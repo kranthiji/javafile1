@@ -1,4 +1,4 @@
-// This is a simple python program.
+// This is a simple java program.
 // FileName : "HelloWorld.java".
  
 class HelloWorld
@@ -10,3 +10,4 @@ class HelloWorld
         System.out.println("Hello, World");
     }
 }
+12345
